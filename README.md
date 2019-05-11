@@ -1,5 +1,5 @@
 # uproxy
-系统代理设置工具
+系统代理快捷设置工具
 
 ##### uproxy -p add -http http://127.0.0.1:1087 -http http://127.0.0.1:1087
 ##### uproxy -p remove
